@@ -1,3 +1,5 @@
+//esté é o algoritmo de busca linear mais simples possível
+
 #include <stdio.h>
 
 int main () {
